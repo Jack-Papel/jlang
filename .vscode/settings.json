@@ -1,0 +1,12 @@
+{
+    "cSpell.words": [
+        "peekable",
+        "rustfmt",
+        "thiserror",
+        "uninterpolate"
+    ],
+    "[rust]": {
+        "editor.defaultFormatter": "rust-lang.rust-analyzer",
+        "editor.formatOnSave": true
+    }
+}
